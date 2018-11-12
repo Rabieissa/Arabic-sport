@@ -1,0 +1,29 @@
+beout Q 01 HD
+http://falconiptv.com:25461/live/Rabie0423/0984203423/50799.m3u8
+
+beout Q 02 HD
+http://falconiptv.com:25461/live/Rabie0423/0984203423/50798.m3u8
+
+beout Q 03 HD
+http://falconiptv.com:25461/live/Rabie0423/0984203423/50797.m3u8
+
+beout Q 04 HD
+http://falconiptv.com:25461/live/Rabie0423/0984203423/53657.m3u8
+
+beout Q 05 HD
+http://falconiptv.com:25461/live/Rabie0423/0984203423/53658.m3u8
+
+beout Q 06 HD
+http://falconiptv.com:25461/live/Rabie0423/0984203423/50794.m3u8
+
+beout Q 07 HD
+http://falconiptv.com:25461/live/Rabie0423/0984203423/50793.m3u8
+
+beout Q 08 HD
+http://falconiptv.com:25461/live/Rabie0423/0984203423/53661.m3u8
+
+beout Q 09 HD
+http://falconiptv.com:25461/live/Rabie0423/0984203423/53660.m3u8
+
+beout Q 10 HD
+http://falconiptv.com:25461/live/Rabie0423/0984203423/53659.m3u8
